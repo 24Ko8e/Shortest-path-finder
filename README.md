@@ -6,3 +6,6 @@ Two, the work flow is the same as above but only this time the player will prefe
 <br>You can also view a web version of the build [here](https://ko8e.itch.io/pathfinding)<br>
 <br>
 ## Demo Video 1<br>
+[![Demo Video 1](https://img.youtube.com/vi/x_GlTOnHCAM/0.jpg)](https://youtu.be/x_GlTOnHCAM)<br>
+## Demo Video 2<br>
+[![Demo Video 2](https://img.youtube.com/vi/x_Iqa_trGLI/0.jpg)](https://youtu.be/x_Iqa_trGLI)<br>
